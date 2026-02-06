@@ -366,6 +366,7 @@ AMUT#Dik durma
 ANA#Anne
 ANAÇ#Şefkatli, anne gibi davranan
 ANAÇLIK#Anaç olma durumu
+ANADİL#Bir kişinin ailesinden ve çevresinden öğrendiği ilk dil
 ANADOLU#Küçük Asya
 ANAHTAR#Kilit açma aracı
 ANALI#Anası olan
@@ -430,6 +431,7 @@ ANTAKYA#Hatay iline bağlı ilçelerden biri
 ANTALYA#Türkiye'nin Akdeniz Bölgesi'nde yer alan illerinden biri
 ANTEN#Dalga alıcı–verici
 ANTEP#Gaziantep
+ANTİ#Karşıt, zıt
 ANTİFRİZ#Donmayı önleyici
 ANTİJEN#Bağışıklık uyarıcısı
 ANTİK#Eski çağlara ait
@@ -450,6 +452,7 @@ APARAT#Yardımcı parça
 APARKAT#Boksta bükük kolla aşağıdan yukarıya doğru çeneye atılan yumruk
 APARMA#Aparmak işi
 APARMAK#Alıp götürmek
+APART#Öğrenci ve yalnız yaşayanlar için tasarlanmış, eşyalı küçük daire
 APAYRI#Büsbütün ayrı; bambaşka
 APAZ#Avuç
 APIŞIK#Yorgun ve güçsüz olan
@@ -471,7 +474,6 @@ ARALI#Aralıklı
 ARALIK#İki şey arasındaki mesafe, iki şeyin arasındaki boşluk; fasıla
 ARAMA#Aramak işi; taharri
 ARAMAK#Birini veya bir şeyi bulmaya çalışmak
-ARAMCA#Eski Sami dili
 ARAMİCE#Günümüzde çok az konuşulan eski Sami dili
 ARANMA#Aranmak işi
 ARANMAK#Arama işine konu olmak
@@ -584,6 +586,7 @@ ASKINTI#Başkalarının sırtından geçinen (kimse)
 ASLA#Hiçbir zaman, hiçbir şekilde; katiyen, sakın, zinhar
 ASLAN#Yeleli yırtıcı memeli
 ASLEN#Kök veya soy bakımından
+ASLI#Bir şeyin özü, temeli
 ASLINDA#Asıl olarak; bir defa, bir kere, aslen, esasen, esasta, haddizatında
 ASLİ#Birincil
 ASLİYE#Esas
@@ -667,6 +670,7 @@ ATIMLIK#Tek atışlık
 ATIŞ#Atmak işi
 ATIŞMA#Atışmak işi
 ATİK#Çabuk davranan
+ATİNA#Yunanistan’ın başkenti
 ATKI#Soğuğa karşı omuzlara, başa, sırta veya boyna alınan örtü; bürgü
 ATKILI#Atkısı olan
 ATLAMA#Atlamak işi
@@ -854,6 +858,7 @@ BAKLAVA#Şerbetli tatlı
 BAKMA#Bakmak işi
 BAKMAK#Bakışı bir şey üzerine çevirmek
 BAKTERİ#Tek hücreli mikrop
+BAKÜ#Azerbaycan’ın başkenti
 BAL#Arı ürünü tatlı madde
 BALA#Yavru
 BALALIK#Bala olma durumu
@@ -1050,6 +1055,7 @@ BERELİ#Beresi olan
 BERHUDAR#Mutlu
 BERİ#Konuşana daha yakın olan taraf
 BERK#Sert
+BERLİN#Almanya’nın başkenti
 BERMUDA#Dizlere kadar inen dar ve kısa pantolon
 BERRAK#Bulanık, kirli olmayan
 BERTARAF#Ortadan kaldırılmış
@@ -1084,6 +1090,7 @@ BEYİN#Sinir sistemi merkezi
 BEYİNCİK#Dengeyi sağlayan beyin bölümü
 BEYİNSİZ#İçinde beyin bulunmayan
 BEYİT#Anlam bakımından birbirine bağlı iki dizeden oluşmuş şiir parçası
+BEYTİ#Kıyma ile yapılan bir kebap türü
 BEYZADE#Beyin oğlu
 BEZ#Pamuk veya keten ipliğinden üretilen bir tür dokuma; çaput
 BEZE#Vücutta şişlik
@@ -1094,6 +1101,7 @@ BEZGİN#Yaşama veya iş görme isteğini yitirmiş
 BEZİRGAN#Tüccar
 BEZME#Bezmek işi
 BEZMEK#Bezgin duruma gelmek
+BICIR#Canlı, hareketli, sevimli
 BIÇAK#Kesici
 BIÇAKLI#Bıçağı olan
 BIÇKI#Büyük el testeresi
@@ -1606,6 +1614,7 @@ CÜZDAN#Para, kâğıt vb koymaya yarayan küçük çanta
 ÇIRPMA#Çırpmak işi
 ÇIRPMAK#Halı, kilim vb şeyleri hızla ve kesik kesik silkelemek; dövmek
 ÇITA#Düzgün biçilmiş uzun ve ensiz tahta
+ÇITIR#Kolay kırılan, gevrek
 ÇIYAN#Çok ayaklılardan, sarımtırak renkte, zehirli bir böcek
 ÇİÇEK#Bitki organı
 ÇİFT#Birbirini tamamlayan iki tekten oluşan (nesneler)
@@ -1622,6 +1631,7 @@ CÜZDAN#Para, kâğıt vb koymaya yarayan küçük çanta
 ÇİMEN#Kendiliğinden yetişmiş çim
 ÇİMENTO#Yapı bağlayıcı toz
 ÇİMLENME#Çimlenmek işi
+ÇİN#Asya’da bir ülke
 ÇİNAKOP#343 çinekop
 ÇİNCE#Çinlilerin kullandığı dil
 ÇİNEKOP#Lüferin küçüğü
@@ -1655,7 +1665,6 @@ CÜZDAN#Para, kâğıt vb koymaya yarayan küçük çanta
 ÇOCUKLU#Çocuğu olan
 ÇOCUKLUK#Çocuk olma durumu
 ÇOCUKSU#Çocuk gibi, çocukça olan, çocuğa benzeyen
-ÇOK HIZLI#Kısa sürede
 ÇOK#Fazla olan
 ÇOKÇA#Oldukça fazla, aşırı miktarda; fazlaca
 ÇOKLU#İçinde birden çok işlev barındıran
@@ -1703,6 +1712,7 @@ DAİR#Üstüne
 DAİRE#Konut olarak kullanılan bir yapının bölümlerinden her biri
 DAKİK#Düzenli işleyen, aksamayan
 DAKİKA#Bir saatlik zamanın altmışta biri
+DAKKA#Bangladeş’in başkenti
 DAKSİL#Yazı düzeltici
 DAKTİLO#Yazı makinesi
 DAL#Ağacın gövdesinden ayrılan kollardan her biri
@@ -1905,6 +1915,7 @@ DIŞ#Bir şeyin dışında kalan yer
 DIŞARI#Dış çevre, dış yer, içeri karşıtı
 DIŞKI#Sindirim artığı
 DIŞLAMA#Dışlamak işi; burunlama, ötekileştirme
+DIZLAK#Tüysüz, çıplak
 DİBA#Altın ve gümüş işlemeli bir tür ipek kumaş
 DİBEK#Taştan veya ağaçtan yapılmış büyük havan
 DİCLE#Diyarbakır iline bağlı ilçelerden biri
@@ -2002,6 +2013,7 @@ DOĞAN#Yırtıcı kuş
 DOĞMA#Doğmak işi
 DOĞRAMA#Doğramak işi
 DOĞRU#Bir ucundan öbür ucuna kadar yönü değişmeyen, eğri ve çarpık karşıtı
+DOĞRU#Gerçeğe uygun
 DOĞRUDAN#Aracısız
 DOĞRULTU#Yön
 DOĞRUSAL#Çizgiyle ilgili olan; çizgisel
@@ -2057,6 +2069,7 @@ DOSYA#Aynı konu, aynı kimse, aynı işle ilgili belgeler bütünü
 DOYASIYA#Doyuncaya kadar yiyerek; doya doya
 DOYMA#Doymak işi; doyunma
 DOYMAK#Yeterince yemek
+DOYMAZ#Hiçbir şeye yetinmeyen
 DOYUM#Eldekinden hoşnut olma durumu; işba
 DOYUMLU#Doymuş, doyumu olan
 DOZ#Bir ilacın bir defada veya bir günde alınması gereken miktarı; dozaj
@@ -2101,6 +2114,7 @@ DUL#Eşi ölmüş veya eşinden boşanmış kadın veya erkek
 DUMAN#Yanma gazı
 DUMANLI#Dumanı olan, duman çıkaran
 DUMUR#Körelme
+DUR#Hareket etme
 DURAĞAN#Yerini değiştirmeyen; hareketsiz, sabit
 DURAK#Taşıt bekleme yeri
 DURMA#Durmak işi; vakfe
@@ -2249,7 +2263,7 @@ EKLİ#Eklenmiş olan
 EKME#Ekmek işi
 EKMEK#Unla yapılan temel yiyecek
 EKO#Yankı
-EKOL#Düşünce okulu
+EKOL#Düşünce okulu, yöntem, akım
 EKOLOG#Ekoloji uzmanı
 EKOLOJİ#Çevre bilimi
 EKONOMİ#Üretim-bölüşüm bilimi
@@ -2321,6 +2335,7 @@ EMEKLİ#Emek harcanarak elde edilen
 EMEKTAR#Bir görevde uzun süre kalıp o işe emeği geçmiş olan (kimse)
 EMEL#Gerçekleştirilmesi zamana bağlı istek
 EMİCİ#Emme özelliği olan
+EMİLİM#Bir maddenin başka bir maddeyi içine alma özelliği
 EMİLME#Emilmek işi
 EMİN#Güvenli
 EMİR#Buyruk
@@ -2350,7 +2365,6 @@ ENDÜSTRİ#Sanayi
 ENERJİ#Maddede var olan ve ısı, ışık biçiminde ortaya çıkan güç; erke
 ENERJİK#Enerji ile ilgili
 ENFES#Çok güzel, en güzel, çok nefis
-ENFORMATİK#Bilginin elektronik makinelerle işlenmesi bilimi
 ENGEL#Mani
 ENGELLİ#Yetileri kısıtlı kişi
 ENGİN#Ucu bucağı görünmeyecek kadar geniş, çok geniş; vâsi
@@ -2396,6 +2410,7 @@ ERİŞME#Erişmek işi
 ERİŞTE#İnce ince kesilip kurutulan hamur
 ERİTME#Eritmek işi; hal
 ERİTMEK#Erimesini sağlamak, erimesine yol açmak
+ERİVAN#Ermenistan’ın başkenti
 ERKAN#Bir topluluğun ileri gelenleri, büyükler, üstler
 ERKEK#Yetişkin adam; bay, er, er kişi, kişi
 ERKEKLİ#Erkeği olan
@@ -2416,6 +2431,7 @@ ESARET#Tutsaklık
 ESAS#Bir şeyin özünü oluşturan ana öge; yapı taşı, asliye
 ESASEN#Başından, temelinden, kökeninden
 ESEF#Üzüntü
+ESEFLE#Acıyarak, üzülerek
 ESEN#Ruhsal ve bedensel olarak sağlıklı, sıhhatli olan; salim
 ESENLİK#Esen olma durumu; selamet, hastalık karşıtı
 ESER#Emek sonucu ortaya konan ürün; yapıt
@@ -2557,6 +2573,7 @@ FARK#Ayrım
 FARKLI#Aralarında fark bulunan; değişik, ayrımlı, daha bir, alternatif
 FARS#Güldürü
 FARZ#Dinî zorunluluk
+FAS#Kuzey Afrika’da bir ülke
 FASIK#Allah'ın emirlerini tanımayan, sapkın, günah işleyen
 FASİKÜL#Eserin bölüm hâlindeki parçası
 FASON#Kesim
@@ -2614,6 +2631,7 @@ FEZA#Uzay
 FEZLEKE#Bir kararın kısaca yazılması
 FIKRA#Kısa ve özlü anlatımı olan, nükteli, güldürücü hikâyecik
 FILDIR#Hızlı hareket eden
+FIRAT#Türkiye’de bir nehir
 FIRILDAK#Rüzgârla dönen, çember biçiminde çocuk oyuncağı
 FIRIN#Pişirme ocağı
 FIRKA#İnsan topluluğu
@@ -2693,6 +2711,7 @@ FON#Ayrılmış para kaynağı
 FONETİK#Ses bilgisi
 FONT#Dökme demir
 FORA#Yelken açtırma, mayna karşıtı
+FORKLİFT#Yük kaldırma ve taşıma aracı
 FORM#Biçim
 FORMA#Biçim
 FORMAT#Biçim
@@ -2704,6 +2723,7 @@ FOTOĞRAF#Görüntü kaydı
 FOTOKOPİ#Bir belgenin, fotoğraf yöntemiyle birebir kopyasının çıkarılması
 FRAGMAN#Tanıtma filmi
 FRAMBUAZ#Ahududu
+FRANSA#Avrupa’da bir ülke
 FRANSIZ#Fransa'da yaşayan halk ve bu halkın soyundan olan kimse; Fransalı
 FREKANS#Sıklık
 FREN#Aracı yavaşlatan veya durduran mekanizma
@@ -2746,6 +2766,7 @@ GARAZ#Kin
 GARD#Eskrim, boks vb oyunlarda korunmak için alınan durum
 GARDIROP#Giysi dolabı
 GARDİYAN#İnfaz ve koruma memuru
+GAREZ#Kin, düşmanlık
 GARİBAN#Kimsesiz, zavallı, garip olan
 GARİP#Kimsesiz, zavallı olan
 GARNİTÜR#Yemeğin yanındaki ek
@@ -3022,6 +3043,7 @@ HAFİYE#Dedektif
 HAFRİYAT#Toprağı kazma; kazı
 HAFTA#Birbiri ardınca gelen yedi günlük dönem
 HAİN#Hıyanet eden (kimse); çıyan, mayası bozuk
+HAİTİ#Karayipler’de bir ülke
 HAK#Doğru, gerçek
 HAKAN#Hükümdarlar hükümdarı unvanı
 HAKARET#Onur kırma, onura dokunma; tahkir
@@ -3103,6 +3125,7 @@ HARELİ#Haresi olan; menevişli
 HAREM#Saray ve konaklarda kadınlara ayrılan bölüm, selamlık karşıtı
 HARF#Ses işareti
 HARFİYEN#Harfi harfine
+HARIL#Hızlı ve güçlü şekilde (yanmak, akmak)
 HARİCEN#Dıştan, dışarıdan
 HARİÇ#Dış
 HARİKA#Çok üstün
@@ -3134,7 +3157,7 @@ HAŞA#Asla
 HAŞERE#Böcek
 HAŞİN#Sert, kırıcı, gönül kırıcı
 HAT#Çizgi
-HATA#Yanlış
+HATA#YANLIŞ
 HATALI#Hatası olan, yanlışlığı bulunan
 HATASIZ#Hatası olmayan, yanlışlığı bulunmayan
 HATAY#Türkiye'nin Akdeniz Bölgesi'nde yer alan illerinden biri
@@ -3316,6 +3339,7 @@ HÜDA#Allah
 HÜKUMET#Bakanlar kurulu
 HÜKÜM#Yargı
 HÜKÜMDAR#Padişah, kral, hakan gibi taht sahibi devlet başkanı; yabgu
+HÜKÜMET#Devleti yöneten organ
 HÜLYA#Tatlı hayal
 HÜMANİST#İnsancıl
 HÜNKAR#Osmanlılarda yalnız padişahlar için kullanılan bir ünvan
@@ -3448,7 +3472,7 @@ IZGARA#Çubuklu pişirme/delikli araç
 İĞNE#Dikiş dikmeye yarayan sivri metal araç
 İĞRENME#İğrenmek işi; iğrenti
 İĞRENMEK#Mide bulandırıcı bir his duymak, tiksinmek
-İHALE#Açık artırma
+İHALE#Bir işin veya alımın, teklifler arasından seçilerek birine verilmesi
 İHANET#Arkadan vurma, hainlik etme
 İHBAR#Bildirme, bildirim, haber verme
 İHBARCI#Haber veren, bildiren kimse
@@ -3629,6 +3653,7 @@ IZGARA#Çubuklu pişirme/delikli araç
 İPTAL#Yararlıktan, kullanıştan kaldırma, silme, bozma
 İRADE#Karar verme gücü
 İRADELİ#İradesi olan
+İRAN#Orta Doğu’da bir ülke
 İRFAN#Bilme, anlama, sezme
 İRİ#Büyük
 İRİN#İltihap sonucu oluşan sıvı
@@ -3670,6 +3695,7 @@ IZGARA#Çubuklu pişirme/delikli araç
 İSPİYON#Gammazlama
 İSRAF#Gereksiz yere para, zaman, emek vbni harcama; savurganlık
 İSRAFİL#Kıyameti bildiren melek
+İSRAİL#Orta Doğu’da zalim bir ülke
 İSTANBUL#Türkiye'nin Marmara Bölgesi'nde yer alan illerinden biri
 İSTASYON#Tren, metro durağı
 İSTAVRİT#Uskumrugillerden, pulsuz ve az kılçıklı bir balık
@@ -3693,6 +3719,7 @@ IZGARA#Çubuklu pişirme/delikli araç
 İSTİSNAİ#Kural dışı
 İSTİŞARE#Danışma
 İSTOP#Çocuk oyunu
+İSVEÇ#Kuzey Avrupa’da bir ülke
 İSVEÇLİ#İsveç'te yaşayan halk veya bu halkın soyundan olan kimse
 İSYAN#Başkaldırı
 İSYANCI#Başkaldırıcı
@@ -3720,6 +3747,7 @@ IZGARA#Çubuklu pişirme/delikli araç
 İŞVEREN#Patron
 İTAAT#Söz dinleme, boyun eğme, buyruğa uyma
 İTALİK#Eğik yazı
+İTALYA#Avrupa’da bir ülke
 İTALYAN#İtalya’da yaşayan halk veya bu halkın soyundan olan kimse; makarnacı
 İTFAİYE#Yangın söndürme kuruluşu
 İTHAF#Birinin adına sunma, armağan etme
@@ -3771,6 +3799,7 @@ IZGARA#Çubuklu pişirme/delikli araç
 İZNİK#Bursa iline bağlı ilçelerden biri
 İZOTOP#Atom numarası aynı, kütle numarası farklı olan atomlar
 İZZET#Ululuk
+JAK#Ses cihazlarının bağlandığı giriş
 JANDARMA#Kırsalda güvenliği sağlayan askerî güç
 JANTİ#Güzel, şık, havalı, gösterişli olan (kimse)
 JAPON#Japonya’da yaşayan halk  veya bu halkın soyundan olan kimse
@@ -3783,6 +3812,7 @@ JEST#Anlatıcı beden hareketi
 JET#Çok hızlı tepkili uçak
 JETON#Para yerine kullanılan nesne
 JİLET#Tıraş bıçağı
+JİP#Arazi aracı
 JÜBİLE#Evliliğin ellinci yılında düzenlenen kutlama şenliği
 JÜPİTER#Güneş Sistemi’nin en büyük gezegeni
 JÜRİ#Seçiciler kurulu
@@ -3856,6 +3886,7 @@ KAĞNI#Öküzle çekilen tekerlekli araba
 KAHIR#Yok etme, ezme, perişan etme, mahvetme
 KAHIRLI#Üzüntü veya acısı çok olan
 KAHİN#Gelecek bildiğini söyleyen
+KAHİRE#Mısır’ın başkenti
 KAHRAMAN#Savaşta veya tehlikeli bir durumda yararlık gösteren (kimse); yiğit
 KAHVALTI#Genellikle sabahları yenilen hafif yemek
 KAHVE#Tropik ağaç
@@ -3897,7 +3928,6 @@ KALİTE#Nitelik
 KALKAN#Ok, kılıç vbnden korunmak için savaşçıların kullandığı korunmalık
 KALKIŞ#Kalkmak işi
 KALLAVİ#Vezir ve sadrazamların giydikleri bir tür kavuk
-KALLEŞLİK#Bir işi kurnazca çözmeye çalışmak için kullanılan söz
 KALMA#Kalmak işi
 KALORİ#Isı birimi
 KALP#Kan pompalayan organ
@@ -3925,6 +3955,7 @@ KAMUS#Sözlük
 KAMYON#Motorlu büyük yük taşıtı
 KAN#Dolaşım sıvısı
 KANAAT#Elindekinden hoşnut olma durumu, yeter bulma, fazlasını istememe
+KANADA#Kuzey Amerika’da bir ülke
 KANAL#Yapay su yolu
 KANAMA#Kanamak işi; nezif
 KANAMAK#Vücudun herhangi bir yerinden kan akmak, kan gelmek
@@ -3943,7 +3974,6 @@ KANITLI#Kanıtı olan; ispatlı
 KANİ#Kanaat getirmiş, inanmış
 KANKA#Kardeş kadar yakın olan kimse
 KANLI#Kan bulaşmış
-KANLICA MANTARI#Sonbaharda yetişen, turuncu renkli mantar
 KANLICA#Turuncu renkli yenilebilir mantar
 KANMA#Kanmak işi
 KANO#Kürekle yürütülen dar, uzun, hafif tekne
@@ -3997,6 +4027,7 @@ KARARMA#Kararmak işi
 KARARSIZ#Kararı olmayan
 KARARTI#Belirsiz koyu şekil
 KARASU#Göz basıncıyla oluşan hastalık (glokom)
+KARAT#Elmasın ağırlık ölçüsü
 KARATAY#Konya iline bağlı ilçelerden biri
 KARATE#Dövüş sanatı
 KARAVAN#Taşınabilir ev araç
@@ -4227,6 +4258,7 @@ KENT#Şehir
 KENTER#Atın hızlı ve düzenli gidişi
 KENTLİ#Şehirli
 KENTSEL#Şehirle ilgili
+KENYA#Afrika’da bir ülke
 KEP#Başlık, sipersiz şapka
 KEPÇE#Sulu yemek servisine yarayan kaşık
 KEPEK#Un elendikten sonra, elek üstünde kalan kabuk kırıntıları
@@ -4463,6 +4495,7 @@ KLOR#Kimyasal element
 KLOZET#Alafranga tuvalet
 KOALA#Avustralya’ya özgü keseli hayvan
 KOBAY#Deney hayvanı
+KOBİ#Küçük ve orta ölçekli işletme
 KOBRA#Zehirli yılan
 KOCA#Bir kadının evlendiği kişi; bey, er, efendi, erkek, ağa, zevç
 KOCABAŞ#Kuş türü
@@ -4592,7 +4625,7 @@ KOY#Küçük körfez
 KOYU#Yoğunluğundan dolayı güç akan, sulu karşıtı
 KOYULUK#Koyu olma durumu
 KOYUN#Eti, sütü ve yünü için yetiştirilen evcil hayvan
-KOZ#Ceviz
+KOZ#Ceviz, elverişli durum
 KOZA#İçinde tohum veya krizalit bulunan korunak; kozalak
 KOZALAK#Koza
 KOZAN#Adana iline bağlı ilçelerden biri
@@ -4701,6 +4734,7 @@ KURAK#Yağışsız
 KURAL#Yol gösteren ilke
 KURALCI#Kurallara bağlı olan; kaideci
 KURAM#Teori
+KURAN#İslam dininin kutsal kitabı
 KURBAĞA#Suda ve karada yaşayan canlı
 KURDELE#Geniş ipekli şerit
 KURGU#Bir şeyin zembereğini kurmak için kullanılan araç; anahtar
@@ -4710,7 +4744,7 @@ KURMAK#Birleştirip çalışır hâle getirmek
 KURMAY#Eğitimli subay
 KURNA#Hamam su teknesi
 KURRA#Kurra hafızı
-KURS#Ağırşak
+KURS#Ağırşak; ders, eğitim
 KURSİYER#Kurs öğrencisi
 KURŞUN#Kimyasal element (Pb)
 KURT#Yırtıcı memeli
@@ -4750,6 +4784,7 @@ KUYUCU#Kuyu kazmayı iş edinmiş kimse
 KUYUM#Değerli metal ve taşlardan yapılmış süs eşyası
 KUYUMCU#Değerli takı yapan/satan kişi
 KUZU#Koyun yavrusu
+KÜBA#Karayipler’de bir ülke
 KÜF#Nemli ortam mantarı
 KÜFE#Örgü sepet
 KÜFÜR#Sövmek için söylenen söz; kalay, sövgü
@@ -4803,6 +4838,7 @@ KÜSURLU#Küsuru olan
 KÜT#Sivri olmayan, kısa ve kalınca
 KÜTLE#Katı maddelerin büyük parçası
 KÜTÜK#Kalın ağaç gövdesi
+KÜTÜR#Çok tâze, sert ve gevrek
 LABİRENT#Çıkış yeri kolay bulunamayacak kadar karışık koridorları olan yapı
 LABORANT#Laboratuvar yardımcısı
 LACİVERT#Mor ve mavinin karışımından ortaya çıkan renk
@@ -4882,13 +4918,17 @@ LEZZETLİ#Tadı güzel; yiyintili
 LİBAS#Giysi
 LİBERAL#Serbest ekonomiden yana olan (kimse, parti vb); liberalist
 LİBRE#Yarım kilogramlık bir ağırlık ölçü birimi
+LİBYA#Kuzey Afrika’da bir ülke
 LİDER#Önder
 LİDER#Toplumun tutumunu değiştiren ve yöneten kimse
+LİDYA#Antik çağda bir uygarlık
 LİF#Her türlü maddeyi oluşturan çok ince ve uzun parça
 LİFT#Yük kaldırma makinesi
 LİG#Takımlar yarış grubu
 LİKİT#Sıvı
 LİKÖR#Tatlı alkollü içki
+LİKRA#Esnek bir kumaş türü
+LİLA#Açık mor renk
 LİMAN#Gemilerin barındığı ve yük aldığı yer
 LİME#Parça
 LİMİT#Sınır
@@ -4919,11 +4959,13 @@ LOKMA#Ağza bir defada alınıp götürülen yiyecek parçası; sokum
 LOKMACI#Lokma yapan veya satan kimse
 LOKUM#Şekerleme
 LONCA#Esnaf birliği
+LONDRA#İngiltere’nin başkenti
 LOP#Yumuşak, yuvarlak ve irice; löp
 LOR#Bir tür taze, yumuşak ve tuzsuz beyaz peynir
 LORT#Soyluluk ünvanı
 LOŞ#Yeterince aydınlık olmayan, yarı karanlık, az ışık alan
 LOTARYA#Ad veya numara çekilerek oynanan şans oyunlarının genel adı
+LOTO#Şansa dayalı bir oyun
 LÖKOSİT#Akyuvar
 LÖP#Lop
 LUNAPARK#İçinde türlü eğlence ve oyun yerleri bulunan alan
@@ -4965,6 +5007,7 @@ MAFSAL#Eklem
 MAFYA#Yasa dışı çıkar örgütü
 MAGANDA#Görgüsüz, kaba, terbiyesiz ve saldırgan kimse
 MAGAZİN#Çeşitli konulu, bol resimli yayın
+MAGNET#Mıknatıs
 MAĞARA#Kaya veya dağ içindeki doğal oyuk
 MAĞDUR#Haksızlığa uğramış (kimse); kıygın
 MAHAL#Yöre
@@ -5018,6 +5061,7 @@ MALİKANE#Geniş bir alana kurulmuş, büyük ve gösterişli ev; yurtluk
 MALİKİ#İslamiyet’te dört Sünni mezhepten biri
 MALİYE#Devletin para işleri
 MALİYET#Üretimde bir mal elde edilinceye değin harcanan değerlerin toplamı
+MALTA#Akdeniz’de bir ada ülkesi
 MALUL#Sakat (kimse); sökel
 MALULEN#Sakat, hasta bir biçimde
 MALUM#Herkes tarafından bilinen, gizli olmayan, öğrenilmiş şey
@@ -5068,7 +5112,6 @@ MARDİN#Türkiye'nin Güneydoğu Anadolu Bölgesi'nde yer alan illerinden biri
 MAREŞAL#En yüksek askerî rütbe
 MARİFET#Herhangi bir işi yapmada ustalık
 MARİNA#Yat limanı
-MARİNE ETMEK#Etleri sos içinde bekleterek yumuşatma işlemi
 MARİNE#Eti sos içinde bekletme işlemi
 MARJ#Yazılmış veya basılı bir kâğıdın kenarında bırakılmış boşluk
 MARJİNAL#Aykırı
@@ -5130,6 +5173,7 @@ MAYIS#Yılın beşinci ayı
 MAYMUN#Zeki primat hayvan
 MAYO#Deniz veya havuz giysisi
 MAYONEZ#Soğuk sos
+MAYOZ#Bölünme türlerinden biri
 MAYT#Akar
 MAZBATA#Tutanak
 MAZERET#Özür
@@ -5154,6 +5198,7 @@ MEDİH#Övme
 MEDİKAL#Tıbba ait, tıpla ilgili
 MEDRESE#Din okulu
 MEDYA#İletişim ortamı
+MEGA#Çok büyük
 MEGAPOL#Megakent
 MEGATON#Bir milyon ton değerinde kütle birimi
 MEĞER#Sonradan anlaşılan durum
@@ -5218,7 +5263,6 @@ MERKEZ#Bir bölgenin veya kuruluşun yönetim yeri
 MERKEZİ#Merkezde olan, merkezi oluşturan
 MERKÜR#Güneş sisteminin Güneş'e en yakın olan gezegeni; Utarit
 MERMİ#Ateşli silahlarla atılan patlayıcı ve delici madde
-MERSİN AĞACI#Kokulu yeşil ağaç
 MERSİN#Güzel kokulu, her dem yeşil bir ağaç
 MERT#Yiğit
 MERTEBE#Aşama
@@ -5231,6 +5275,7 @@ MESELA#Söz gelişi
 MESELE#Sorun
 MESH#Bir şeyi elle sıvazlama
 MESİH#Hz İsa'ya verilen adlardan biri
+MESİR#Baharatlı macun
 MESİRE#Gezilecek, piknik yapılacak yer
 MESKEN#Konut
 MESKUT#Söylenmemiş
@@ -5272,6 +5317,7 @@ METRUK#Bırakılmış, terk edilmiş
 MEVDUAT#Bankadaki para
 MEVKİ#Yer
 MEVLA#Efendi, sahip, malik
+MEVLANA#Ünlü Türk-İslam düşünürü
 MEVTA#Ölü, ölmüş kimse
 MEVZİ#Yer
 MEVZİİ#Bölgesel
@@ -5337,6 +5383,7 @@ MİNÖR#Daha küçük
 MİNYATÜR#Küçük boyutlu geleneksel resim sanatı
 MİR#Komutan
 MİRAS#Kalan mal
+MİRKET#Küçük bir maymun türü
 MİRZA#Bazı Türk topluluklarında ve İran'da kullanılan bir soyluluk sanı
 MİS#Güzel kokulu bir madde; misk
 MİSAFİR#Konuk
@@ -5345,6 +5392,7 @@ MİSİL#Eş, benzer
 MİSK#Güzel koku
 MİSKET#Mis üzümünden yapılan şarap
 MİSKİN#Çok uyuşuk olan (kimse)
+MİSLİ#Katı, kat
 MİSTİK#Gizemci
 MİSVAK#Diş temizliğinde kullanılan bitki
 MİSYON#Görev
@@ -5356,6 +5404,7 @@ MİZAHİ#İçinde gülmece bulunan, gülmece niteliği taşıyan (yazı, karikat
 MİZAN#Terazi
 MOBİL#Hareketli olan, taşınabilir olan
 MOBİLYA#Ev eşyası
+MOD#Geçici eğilim
 MODA#Geçici yenilik
 MODAEVİ#Moda giysilerin yapıldığı ve satıldığı yer
 MODEL#Örnek alınan
@@ -5363,6 +5412,7 @@ MOLA#Yorgunluğu gidermek için duraklama
 MOLEKÜL#Maddenin birimi
 MOMENT#Döndürme etkisi
 MOMENTUM#Bir cismin hareket miktarı, kütlenin sürat ile çarpımı
+MONAKO#Avrupa’da küçük bir ülke
 MONİTÖR#Göstergeç
 MONT#Kısa üst giysi
 MONTE#Montaj
@@ -5370,6 +5420,7 @@ MOR#Kırmızımsı mavi renk
 MORAL#Bir insanın ruhsal gücü, manevi güç; maneviyat
 MORG#Ölü saklama yeri
 MORLUK#Mor olma durumu
+MORON#Geri zekâlı (argo)
 MORS#Deniz memelisi
 MORUK#Gençlere göre yaşlı anne, baba
 MOTOR#Herhangi bir enerjiyi mekanik enerjiye dönüştüren düzenek
@@ -5512,7 +5563,6 @@ MÜŞAVİR#Danışman
 MÜŞTEKİ#Şikâyetçi
 MÜŞTERİ#Hizmet, mal vb alan ve karşılığında ücret ödeyen kimse
 MÜTALAA#Herhangi bir konu üzerinde ayrıntılı bir biçimde düşünme
-MÜTEBASBİS#Aşırı saygı göstererek yaranmak isteyen kimse
 MÜTEVAZI#Alçak gönüllü
 MÜTHİŞ#Korkunç
 MÜZAYEDE#Açık artırma
@@ -5548,7 +5598,7 @@ NAKLİYE#Taşımak işi
 NAL#Hayvan ayağı demiri
 NALBANT#Hayvanların ayağına nal çakan kimse
 NALBUR#At nalı yapan demirci
-NAM#Ad
+NAM#Ad, ün
 NAMAZ#İslami ibadet
 NAMERT#Korkak, alçak, mert olmayan
 NAMINA#Adına, kendisine
@@ -5591,6 +5641,7 @@ NAZLI#Ağırdan alan
 NEBAT#Bitki
 NEBATİ#Bitkisel
 NEBİ#Kimi bilginlere göre kendisine kitap indirilmemiş peygamber
+NEBZE#Çok az şey, az
 NECASET#Kirlilik
 NECİP#Soyu temiz olan
 NEDEN#Bir olayı doğuran başka bir olayı sormak için kullanılan bir söz; ne
@@ -5645,6 +5696,7 @@ NİKAH#Evlilik işlemi
 NİKEL#Gümüş parlaklığında metal
 NİKELSİ#Nikeli andıran, nikele benzeyen, nikel gibi
 NİKOTİN#Tütünden elde edilen zehirli madde
+NİL#Afrika’da bir nehir
 NİLÜFER#Su bitkisi
 NİMET#İyilik, lütuf, ihsan
 NİNE#Torunu olan kadın; büyükana, büyükanne, kadınnine, nene
@@ -6112,6 +6164,7 @@ PEHLİVAN#Güreşçi
 PEJMÜRDE#Eski püskü, yırtık
 PEK#Sert
 PEKİ#Evet
+PEKİN#Çin’in başkenti
 PEKMEZ#Kaynatılmış öz
 PELİKAN#İri su kuşu
 PELİN#Acı kokulu şifalı bitki
@@ -6127,6 +6180,7 @@ PERİ#Doğaüstü güçleri olduğuna inanılan, hayal ürünü varlık
 PERİŞAN#Dağınık, düzensiz, karmakarışık olan; berduş
 PERİYOT#Dönem
 PERON#Yolcu inip binme alanı
+PERS#Eski İran halkı
 PERSONEL#Çalışanlar
 PERŞEMBE#Çarşamba ile cuma arasındaki gün
 PERT#Değersizleşme, zarar
@@ -6334,6 +6388,7 @@ REFAKAT#Arkadaşlık etme, birlikte bulunma
 REFİK#Arkadaş
 REFLEKS#İstem dışı tepki
 REFLÜ#Bir vücut sıvısının normalin aksi yönde akması
+REGL#Kadınlarda adet dönemi
 REHAVET#Vücutta görülen gevşeklik, ağırlık, tembellik
 REHİN#Borca karşılık bırakılan eşya
 REHİNE#Güvence amacıyla alıkonulan kişi
@@ -6396,6 +6451,7 @@ RİTMİK#Ritimli
 RİTÜEL#İnançlara özgü tören ve uygulama
 RİVAYET#Söylenti
 RİYA#İkiyüzlülük
+RİYAD#Suudi Arabistan’ın başkenti
 RİYAKAR#İkiyüzlü
 RİYAL#Pesetanın dörtte biri değerinde İspanya’nın para birimi
 RİZE#Türkiye'nin Karadeniz Bölgesi'nde yer alan illerinden biri
@@ -6405,6 +6461,7 @@ RODEO#Yabani hayvan üzerinde durma oyunu
 ROKA#Salata bitkisi
 ROKET#İtmeli mermi
 ROL#Oyuncunun canlandırdığı görev
+ROMA#İtalya’nın başkenti
 ROMAN#Uzun edebî anlatı
 ROMANTİK#Davranışlarında duygu ve coşkunun aşırı ölçüde etkisi bulunan
 ROMEN#Eski Roma’da yaşayan halk veya bu halkın soyundan olan kimse
@@ -6431,6 +6488,7 @@ RUMENCE#Rumenlerin kullandığı dil
 RUMİ#Selçuklu süsleme üslubu
 RUPİ#Para birimi
 RUS#Rus halkından kimse
+RUSYA#Avrupa ve Asya’da bir ülke
 RUTİN#Sıradanlık, çeşitlilik göstermeyen, alışılagelmiş düzen içinde yapılan
 RÜKU#Öne doğru eğilme
 RÜŞT#Erginlik
@@ -6528,6 +6586,7 @@ SALI#Pazartesi ile çarşamba arasındaki gün
 SALIK#Tavsiye
 SALINCAK#Sallanarak eğlenilen araç
 SALINIM#Salınmak işi
+SALİH#Dürüst, iyi kimse
 SALİM#Sakin, huzurlu olan
 SALİSE#Saniyenin altmışta biri olan zaman birimi
 SALKIM#Üzüm gibi, birçoğu bir sap üzerinde bir arada bulunan meyve
@@ -6872,7 +6931,6 @@ SİNE#Göğüs
 SİNEK#Çift kanatlılardan, birtakım uçucu böceklerin genel adı; cibin
 SİNEKLİK#Sinekleri kovmaya yarayan ucu püsküllü değnek
 SİNEMA#Hareketli görüntü oluşturma sanatı
-SİNEMATOGRAFİ#Görüntüleri hareketli bir bütün haline getirme işi
 SİNERJİ#Artı güç
 SİNİ#Tepsi
 SİNİK#Sinmiş, yılmış, pusmuş
@@ -6923,6 +6981,7 @@ SOBE#Oyun sözü
 SODA#Gazlı içecek
 SOFA#Evlerde oda kapılarının açıldığı genişçe yer; hanay, hol
 SOFRA#Masa, sini vb şeylerin, yemek yemek üzere hazırlanmış durumu
+SOFYA#Bulgaristan’ın başkenti
 SOĞUK#Isısı düşük olan, sıcak karşıtı
 SOĞUMA#Soğumak işi
 SOĞUMAK#Isı yitirmek
@@ -7048,6 +7107,7 @@ SULTANİ#Sultanlara yaraşan veya sultanlarla ilgili
 SULU#Suyu olan, içinde su bulunan, koyu karşıtı
 SULUK#Öğrencilerin okula su götürdükleri kap; matara
 SUMAK#Ekşi baharat
+SUMO#Japon güreşi
 SUNA#Erkek ördek
 SUNİ#Yapay
 SUNMA#Sunmak işi; arz, takdim
@@ -7059,6 +7119,7 @@ SUR#Kale duvarı
 SURAT#Yüz
 SURE#Kur'an'ın yüz on dört bölümünden her biri
 SURET#Dış görünüş
+SURİYE#Orta Doğu’da bir ülke
 SURİYELİ#Suriye’de yaşayan halk veya bu halkın soyundan olan kimse
 SUSAM#Yağlı tohum
 SUSAMA#Susamak işi
@@ -7141,6 +7202,7 @@ SÜZME#Süzmek işi
 ŞAL#Yün örtü
 ŞALGAM#Turpgillerden, yumru köklü bir bitki
 ŞALVAR#Bol ve geniş pantolon
+ŞAM#Suriye’nin başkenti
 ŞAMAN#Ruhani kişi
 ŞAMAR#Açık elle yüze vurulan tokat; beşkardeş
 ŞAMATA#Gürültü patırtı
@@ -7235,6 +7297,7 @@ SÜZME#Süzmek işi
 ŞİKAYET#Yakınma
 ŞİKE#Maç sonucunu ayarlama
 ŞİKELİ#Şike yapılan
+ŞİLİ#Güney Amerika’da bir ülke
 ŞİLTE#Üstünde oturulan, yatılan, içi yünle, pamukla doldurulmuş döşek
 ŞİMDİ#Şu anda, içinde bulunulan zamanda; imdi
 ŞİMDİKİ#İçinde bulunulan anda olan veya yapılan, bu andaki, bu zamandaki
@@ -7308,6 +7371,7 @@ TAHLİYE#Boşaltma
 TAHMİN#Yaklaşık olarak değerlendirme; oranlama
 TAHMİNİ#Oranlamaya, tahmine göre; kararlama, kestirmece
 TAHRA#Bir tür eğri budama bıçağı
+TAHRAN#İran’ın başkenti
 TAHRİBAT#Yıkıp bozma, harap etme
 TAHRİF#Bir şeyin aslını bozma; değiştirme
 TAHRİP#Yıkma, kırıp dökme, harap etme, bozma
@@ -7414,6 +7478,7 @@ TARİHİ#Tarihsel
 TARİKAT#Dinî yol
 TARİZ#Taşlama
 TARLA#Tarıma elverişli olan, sınırlı ve belirli toprak parçası
+TAROT#Fal kartları
 TART#Kalıpta pişen bir tür meyveli pasta
 TARTAR#Suda eriyen, alkol ve eterde erimeyen, asit tadında beyaz bir tuz
 TARTI#Ağırlık
@@ -7469,6 +7534,7 @@ TAY#Üç yaşına kadar olan at yavrusu
 TAYFA#Gemide türlü işlerde çalıştırılan sefer işçisi; uşak
 TAYİN#Ne olduğunu anlama, gösterme, belirtme, kararlaştırma belirleme
 TAYT#Bacakları sıkı saran özel kumaştan yapılmış bir pantolon türü
+TAYVAN#Doğu Asya’da bir ada
 TAYYAR#Uçucu
 TAYYARE#Uçak
 TAZE#Bozulmamış, bayatlamamış olan
@@ -7499,6 +7565,7 @@ TEESSÜF#Yazıklanma
 TEF#Zilli bir kasnağa geçirilmiş kursak zarından oluşan çalgı
 TEFE#Dokuma tezgâhında tarağı tutan ağaç veya metal parça
 TEFEKKÜR#Düşünme
+TEFLON#Yapışmaz madde
 TEFRİK#Ayrım
 TEFRİŞ#Döşeme işi
 TEĞMEN#Orduda genç subay rütbesi
@@ -7599,7 +7666,6 @@ TERAPİST#Tedavici
 TERAS#Üstü açık üst kat bölümü
 TERAVİH#Ramazan namazı
 TERAZİ#Bir kolun iki ucuna asılı iki kefeden oluşan tartı; mizan, vezne
-TERBİYE#Eğitim
 TERBİYE#Önceden belirlenen amaçlara göre gelişme sağlama süreci
 TERCÜMAN#Çevirmen
 TERCÜME#Çeviri
@@ -7644,7 +7710,6 @@ TEŞRİF#Bir yeri onurlandırma, şereflendirme
 TEŞRİH#Ayrıntılı açıklama
 TEŞVİK#İsteklendirme
 TETANOS#Kas kasılmasına yol açan tehlikeli hastalık
-TETANOZ#Yaradan bulaşan, kasları kilitleyen tehlikeli hastalık
 TETİK#Ateşli silahlarda ateşlemeyi sağlamak için çekilen küçük parça
 TEVATÜR#Yaygın söylenti
 TEVAZU#Alçak gönüllülük
@@ -7688,8 +7753,10 @@ TIRSMA#Tırsmak durumu
 TIRT#İşe yaramayan (kimse)
 TISLAMA#Tıslamak işi
 TISLAMAK#Kaz, kedi, yılan "tıs" diye ses çıkarmak
+TİBET#Asya’da bir bölge
 TİCARET#Ürün, mal vb alım satımı; tecim
 TİCARİ#Ticaretle ilgili, ticarete ilişkin
+TİFLİS#Gürcistan’ın başkenti
 TİFO#Bulaşıcı hastalık
 TİFTİK#Tiftik keçisinin ince, yumuşak, parlak yünü; moher
 TİFÜS#Ateşli hastalık
@@ -7768,12 +7835,12 @@ TÖRE#Geleneksel kurallar
 TÖREN#Resmî merasim
 TÖRESEL#Törel
 TÖRPÜ#Yontma ve düzeltme aracı
-TRADİSYON#Kuşaktan kuşağa iletilen kültürel kalıntılar
 TRAFİK#Yol ve ulaşım hareketliliği
 TRAFO#Dönüştürücü
 TRAJEDİ#Acıklı tiyatro
 TRAKE#Soluk borusu
 TRAKTÖR#Tarım makinesi
+TRAKYA#Türkiye’nin Avrupa’daki bölgesi
 TRAMPET#İki değnek ile çalınan küçük davul
 TRAMVAY#Raylı taşıt
 TRANS#Hipnoz hâli
@@ -7794,8 +7861,10 @@ TUĞLU#Tuğu olan
 TULUK#Tulum
 TULUM#Deri kap
 TULUMBA#Sıvı çekme aracı
+TUNA#Avrupa’da bir nehir
 TUNÇ#Koyu kızıl renkte olan, bakır, çinko ve kalay alaşımı; bronz
 TUNİK#Pantolon veya etek üzerine giyilen, dizlere kadar inen üst giysisi
+TUNUS#Kuzey Afrika’da bir ülke
 TUR#Dolaşma
 TURA#Tuğra
 TURAN#Türklerin Orta Asya’da yaşadıkları en eski yurtları
@@ -7809,7 +7878,6 @@ TURNUVA#Oyuncu veya takımlar arasında sırayla yapılan yarışma dizisi
 TURP#Kök sebze
 TURTA#Üzeri yufka kaplı, meyveli veya kakaolu bir pasta türü
 TUŞ#Basma düğmesi
-TUŞ#Parmaklarla hareket ettirilen tuşlar bütünü
 TUT#Adıyaman iline bağlı ilçelerden biri
 TUTAM#Avuç içi veya parmak uçlarıyla tutulabilen miktarda olan; kavram
 TUTANAK#Söylenenlerin yazılı kaydı
@@ -7851,8 +7919,10 @@ TÜMSEK#Küçük tepe; tüm, tümbek, yükselti
 TÜNAYDIN#Öğleden sonra selamı
 TÜNEK#Kuşlar ve kümes hayvanlarının üzerinde tünedikleri dal veya sırık
 TÜNEL#Yer altı geçidi
+TÜNEL#Yer altı geçidi
 TÜNEME#Tünemek işi; tünekleme
 TÜNEMEK#Kuşların dala konması
+TÜNMEK#Hava kararıp gece olmak
 TÜP#Laboratuvarlarda türlü işlerde kullanılan, bir ucu kapalı cam boru
 TÜR#Aynı özellikte grup
 TÜRBE#Genellikle tanınmış kişilerin mezarının bulunduğu yapı
@@ -7866,6 +7936,7 @@ TÜRK#Türk soyundan kişi
 TÜRKÇE#Türklerin konuştuğu ve yazdığı dillerin genel adı; Türki
 TÜRKÇÜ#Türkçülük akımını benimseyen; Pantürkist
 TÜRKİ#Türk'le ilgili
+TÜRKİYE#Avrupa ve Asya’da güzel bir ülke
 TÜRKMEN#Oğuz soyundan gelen Türk topluluğu
 TÜRKOLOG#Türklük bilimci
 TÜRKÜ#Halk şarkısı
@@ -7923,6 +7994,7 @@ UMUM#Bütün
 UMUT#Ummaktan doğan duygu; umu, ümit
 UMUTLU#Umudu olan, umut besleyen; ümitli, ümitvar
 UNCU#Un satan kimse
+UNLU#Un içeren, undan yapılmış
 UNSUR#Öge
 UNUTKAN#Çok unutan, unutma huyu olan
 UNUTMA#Unutmak durumu; nisyan
@@ -7994,8 +8066,7 @@ UZUV#Organ
 ÜCRETLİ#Ücretle çalıştırılan kimse
 ÜÇER#Üç sayısının üleştirme sayı sıfatı
 ÜÇGEN#Üç kenarlı şekil
-ÜÇKAĞIT#El çabukluğuna dayalı hileli oyun
-ÜÇKÂĞIT#Hileli iskambil oyunu
+ÜÇKAĞIT#Hile, dolandırıcılık
 ÜFLEME#Üflemek işi
 ÜFLEMEK#Dudakları büzerek soluğu bir şey üzerine hızla vermek; üfürmek
 ÜFÜRME#Üfürmek işi
@@ -8015,6 +8086,7 @@ UZUV#Organ
 ÜNLEM#Duygu bildiren sözcük
 ÜNLEME#Ünlemek işi
 ÜNLÜ#Tanınmış
+ÜRDÜN#Orta Doğu’da bir ülke
 ÜRE#Atık madde
 ÜREME#Üremek işi
 ÜREMEK#Canlılar doğup çoğalmak
@@ -8131,6 +8203,7 @@ VEFA#Sevgiyi sürdürme, sevgi, dostluk bağlılığı
 VEFAKAR#Vefası olan, sevgisi geçici olmayan; hakikatli, vefalı
 VEFASIZ#Vefası olmayan, sevgisi çabuk geçen; hakikatsiz, bivefa
 VEFAT#Ölüm
+VEGAN#Hayvansal ürün tüketmeyen
 VEKALET#Vekillik
 VEKİL#Yetkili temsilci
 VELAKİN#Ama
@@ -8181,6 +8254,7 @@ VİTAMİN#Gerekli organik madde
 VİTES#Motorlu taşıtların çekiş ve hızını ayarlamaya yarayan dişliler düzeni
 VİTİR#Vitir namazı
 VİYADÜK#Köprü yol
+VİYANA#Avusturya’nın başkenti
 VİYOL#Yumurta kabı
 VİYOLA#Kemana benzer, kemandan büyük bir çalgı; alto
 VİZE#Resmî izin
@@ -8290,6 +8364,7 @@ YARAMAZ#Uygun ve yararlı olmayan, bir işe yaramayan
 YARAR#Bir işten elde edilen iyi sonuç; getiri, kazanç, fayda, kâr, avantaj
 YARARLI#Faydalı
 YARASA#Uçabilen memeli
+YARASIN#Yiyen içen kimselere, “afiyet olsun” anlamında söylenir
 YARAŞIR#Layık, uygun
 YARAŞMA#Yaraşmak işi; yaraşık
 YARATICI#Yaratma yeteneği olan; mucit, kreatif
@@ -8383,6 +8458,7 @@ YEDİŞER#Yedi sayısının üleştirme sayı sıfatı
 YEDİZ#Yedisi bir arada doğan (çocuk)
 YEĞ#Tercih edilen
 YEKPARE#Bütün
+YEKÜN#Toplam
 YEL#Rüzgâr
 YELE#At, aslan gibi hayvanların boyun ve ense kısmındaki uzun kıllar
 YELEK#Kolsuz, önü açık veya düğmeli üst giysisi; delme
@@ -8390,9 +8466,9 @@ YELKOVAN#Saatin, dakikaları gösteren ve akrepten daha uzun olan ibresi
 YELPAZE#Sallanınca serinlik veren katlanır araç
 YEM#Hayvanlar için saklanan kışlık yiyecek; yeygi
 YEME#Yemek işi
-YEMEK BORUSU#Sindirim sisteminde besinlerin geçtiği yol
 YEMEK#Yemek yeme, karın doyurma işi
 YEMEKLİ#Yemek verilen (nişan, düğün, parti vb)
+YEMEN#Orta Doğu’da bir ülke
 YEMİN#Ant
 YEMİNLİ#Açıklamasını yemin ederek yapan
 YEMİŞ#Meyve
@@ -8481,6 +8557,7 @@ YONCA#Yem bitkisi
 YONGA#Kesilen, yontulan veya rendelenen bir şeyden çıkan parça; kamga
 YONTMA#Yontmak işi; yonma
 YONTMAK#Keserek şekil vermek
+YORUCU#Çok güç isteyen
 YORUM#Bir sözün veya yazının anlamını açıklama ve değerlendirme
 YORUMCU#Yorum yapan kimse
 YOSUN#Suda ve nemli yerde yetişen ilkel bitki
@@ -8528,6 +8605,7 @@ YÜKÜMLÜ#Bir şeyi yapma zorunluluğu olan; memur, mükellef
 YÜN#Koyun tüyü
 YÜREK#Kalp
 YÜREKLİ#Tehlikeyi korkusuzca karşılayan, hiçbir şeyden korkusu olmayan; koçak
+YÜRÜ#"devam et, git" anlamında kullanılan bir söz
 YÜZ#Doksan dokuzdan sonra gelen sayının adı
 YÜZBAŞI#Orduda rütbesi üsteğmenle binbaşı arasında olan subay
 YÜZDE#Aracıya verilen pay
@@ -8586,7 +8664,6 @@ ZEHİR#Öldürücü madde
 ZEHİRLİ#Zehri olan; ağılı, toksik
 ZEKA#Düşünme, anlama ve sonuç çıkarma yeteneği
 ZEKAT#İslam’da maldan verilen zorunlu pay
-ZEKÂT#Zorunlu dinî yardım
 ZEKİ#Anlama, kavrama yeteneği olan, zekâsı olan; anlaklı, zeyrek
 ZELİL#Hor görülen, aşağı tutulan, aşağılanan
 ZEMBEREK#Saatlerin çeşitli parçalarını harekete geçiren bölüm; yay
@@ -8646,6 +8723,7 @@ ZORUNLU#Kesin olarak gereksinim duyulan; zaruri, mecburi, ıztırari
 ZULA#Kaçak ve yasak şeylerin saklandığı gizli yer
 ZULÜM#Haksızlık
 ZÜHRE#Çoban Yıldızı
+ZÜHREVİ#Cinsel yolla bulaşan (hastalık)
 ZÜHT#Takva
 ZÜLFİKAR#Hz Muhammed'in Hz Ali'ye armağan ettiği, ucu ikiye ayrılmış kılıç
 ZÜMRE#Topluluk
